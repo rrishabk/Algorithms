@@ -1,3 +1,3 @@
 # Algorithms
-Name - Rishabh Kumar 
-E.R. - 241B207
+# Name - Rishabh Kumar 
+# E.R. - 241B207
